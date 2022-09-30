@@ -5,18 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
     <script defer src="script.js"></script>
 </head>
 <body>
-    <div class="hero-container" data-aos="fade-in">
-        <h1>Kevin Tran</h1>
-        <p>
-          I'm a
-          <span
-            class="typed"
-            data-typed-items="Front-End, Full Stack Developer,Back-End"
-          ></span>
-        </p>
+  <div class="fade-in">
+    Hello there!!
+    
+  </div>
+  
+   
+
+    <div class="container" >
+      <h1> My name is Kevin I'm a <span class="auto-type"></span></h1>
+      
+        
       </div>
+      <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+      <script>
+        var typed = new Typed(".auto-type",{
+          strings:['Front-end Developer','Back-end Developer','Full-stack Developer'],
+          typeSpeed:100,
+          backSpeed:100,
+          loop:true
+        })
+      </script>
 </body>
 </html>
