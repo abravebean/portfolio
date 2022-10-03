@@ -2,13 +2,13 @@
 |:--------|:-------|:-------------|:-----------|
 |Nav bar |H|3 h| 2h|
 |About me |H|2h|3h|
-|project|H|2h| Actual Time|
+|project|m|2h| 4h|
 |icon|m|2h|1h|
 |cube animation|m|2h|3h|
 |gsap animation|m|3h|2h|
 |pacman loader|m|1h|1h|
 |contact page|m|2h|4h|
-|letter animations|2h|3h|
+|letter animations| m|1h|2h|
 
 
 |Day|	Deliverable|Status|
