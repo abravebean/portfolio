@@ -2,7 +2,7 @@
 |:--------|:-------|:-------------|:-----------|
 |Nav bar |H|3 h| 2h|
 |About me |H|2h|3h|
-|project|m|2h| 4h|
+|project|m|2h| 3h|
 |icon|m|2h|1h|
 |cube animation|m|2h|3h|
 |gsap animation|m|3h|2h|
