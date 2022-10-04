@@ -28,3 +28,16 @@
 
 
 
+      <h1> My name is Kevin I'm a <span class="auto-type"></span></h1>
+      
+        
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+      <script>
+        var typed = new Typed(".auto-type",{
+          strings:['Front-end Developer','Back-end Developer','Full-stack Developer'],
+          typeSpeed:100,
+          backSpeed:100,
+          loop:true
+        })
+      </script>
