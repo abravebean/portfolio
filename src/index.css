@@ -1,0 +1,69 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font: 300 11px/1.4 'Helvetica Neue', sans-serif;
+  color: #444;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #022c43;
+  overflow: hidden;
+  display: block;
+}
+
+.dashboard {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+@media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}
+.fade-in{
+  animation: fadeIn 10s;
+  }
+  @keyframes fadeIn {
+   from{
+      opacity:0;
+      }
+   to {
+          opacity :1;
+      }    
+  
+  }
+  .container{
+      
+      
+      font-size: 36px;
+      line-height: 33px;
+      margin: 0;
+      font-family: 'Coolvetica';
+      font-weight: 400;
+      color: #fff;
+      text-align: center;
+  }
+  .container h1{
+      font-size:80;
+      font-weight:600;
+  }
+  
+  
+  
+  *{
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+  }
+  .text-zone {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40%;
+    max-height: 90%;
+  }
