@@ -1,8 +1,4 @@
 {
-
-  "homepage": "https://abravebean.github.io/abravebean.github.io",
-
-
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -18,10 +14,6 @@
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
     "firebase": "^9.10.0",
-
-    "gh-pages": "^4.0.0",
-
-
     "gsap-trial": "^3.11.1",
     "leaflet": "^1.9.1",
     "loaders.css": "^0.1.2",
@@ -36,10 +28,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
-
     "start": "react-scripts start",
     "build": "CI= react-scripts build",
     "test": "react-scripts test",
