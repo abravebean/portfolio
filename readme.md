@@ -16,7 +16,6 @@
 |contact page|m|2h|4h|
 |letter animations| m|1h|2h|
 
->>>>>>> e80d2db588b9fb159c011a10e8d4cf92de3ffed1
 
 |Day|	Deliverable|Status|
 |:--|:-----------|:-----|
@@ -43,7 +42,7 @@
 
 
 
-<<<<<<< HEAD
+
 =======
       <h1> My name is Kevin I'm a <span class="auto-type"></span></h1>
       
