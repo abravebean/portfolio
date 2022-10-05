@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .text-animate {
     display: inline-block;
     opacity: 0;
@@ -24,4 +25,32 @@
       animation-delay: #{$i / 10}s;
     }
   }
+=======
+.text-animate {
+    display: inline-block;
+    opacity: 0;
+    animation: bounceIn;
+    animation-duration: 5s;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+    min-width: 10px;
+  }
+  
+  .text-animate-hover {
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+  
+    &:hover {
+      animation: rubberBand 1s;
+      color: #ffd700;
+    }
+  }
+  
+  @for $i from 1 through 35 {
+    .text-animate._#{$i} {
+      animation-delay: #{$i / 10}s;
+    }
+  }
+>>>>>>> e80d2db588b9fb159c011a10e8d4cf92de3ffed1
   
