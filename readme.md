@@ -1,11 +1,4 @@
-|Component|Priority|estimated time| Actual Time|
-|:--------|:-------|:-------------|:-----------|
-<<<<<<< HEAD
-|Nav bar |H|3 h| Actual Time|
-|About me |H|2h| Actual Time|
-|project|H|2h| Actual Time|
-|icon|m|1h|Actual Time|
-=======
+
 |Nav bar |H|3 h| 2h|
 |About me |H|2h|3h|
 |project|m|2h| 3h|
@@ -32,7 +25,7 @@
 |Day 4|MVP & Bug Fixes|	complete|
 |Day 5|	Final Touches|	Incomplete|
 |Day 6|	Present	|incomplete|
->>>>>>> e80d2db588b9fb159c011a10e8d4cf92de3ffed1
+
 
 
 
