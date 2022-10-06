@@ -29,7 +29,7 @@
 
 
 
-=======
+
       <h1> My name is Kevin I'm a <span class="auto-type"></span></h1>
       
         
@@ -43,4 +43,4 @@
           loop:true
         })
       </script>
->>>>>>> e80d2db588b9fb159c011a10e8d4cf92de3ffed1
+
