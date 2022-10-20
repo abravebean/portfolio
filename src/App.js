@@ -24,10 +24,4 @@ function App() {
 }
 
 export default App
-a
 
-aaaa
-aaaa
-aaaa
-aaaa
-aaaa
